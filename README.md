@@ -10,12 +10,12 @@ Features:
 Prerequisites
 Python 3.x installed on your system.
 
-Installation
+Installation:
 1. Clone the repository:
-   git clone https://github.com/Omryuo/PRODIGY_SD_01.git
+   > - git clone https://github.com/Omryuo/PRODIGY_SD_01.git
 
 2. Navigate to the project directory:
-   cd PRODIGY_SD_01
+   > - cd PRODIGY_SD_01
 
 Usage:
 1. Run the 'main.py' script:
@@ -32,13 +32,13 @@ Usage:
 > - 25.0 degrees Celsius is equal to 77.00 degrees Fahrenheit and 298.15 Kelvin.
 
 Functions:
-1. celsius_to_fahrenheit(celsius): Converts Celsius to Fahrenheit.
-2. celsius_to_kelvin(celsius): Converts Celsius to Kelvin.
-3. fahrenheit_to_celsius(fahrenheit): Converts Fahrenheit to Celsius.
-4. fahrenheit_to_kelvin(fahrenheit): Converts Fahrenheit to Kelvin.
-5. kelvin_to_celsius(kelvin): Converts Kelvin to Celsius.
-6. kelvin_to_fahrenheit(kelvin): Converts Kelvin to Fahrenheit.
-7. convert_temperature(value, unit): Converts the given temperature value from the specified unit to the other two units.
+> - celsius_to_fahrenheit(celsius): Converts Celsius to Fahrenheit.
+> - celsius_to_kelvin(celsius): Converts Celsius to Kelvin.
+> - fahrenheit_to_celsius(fahrenheit): Converts Fahrenheit to Celsius.
+> - fahrenheit_to_kelvin(fahrenheit): Converts Fahrenheit to Kelvin.
+> - kelvin_to_celsius(kelvin): Converts Kelvin to Celsius.
+> - kelvin_to_fahrenheit(kelvin): Converts Kelvin to Fahrenheit.
+> - convert_temperature(value, unit): Converts the given temperature value from the specified unit to the other two units.
 
 Contributing:
 1. Fork the repository.
