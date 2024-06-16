@@ -21,15 +21,15 @@ Usage:
 1. Run the 'main.py' script:
 
 2. Follow the prompts:
-=> Enter the temperature value.
-=> Enter the unit of measurement (C for Celsius, F for Fahrenheit, K for Kelvin).
+> - Enter the temperature value.
+> - Enter the unit of measurement (C for Celsius, F for Fahrenheit, K for Kelvin).
 
 4. The program will display the converted temperature values:
    
-=> Temperature Converter
-=> Enter the temperature value: 25
-=> Enter the unit of measurement (C for Celsius, F for Fahrenheit, K for Kelvin): C
-=> 25.0 degrees Celsius is equal to 77.00 degrees Fahrenheit and 298.15 Kelvin.
+> - Temperature Converter
+> - Enter the temperature value: 25
+> - Enter the unit of measurement (C for Celsius, F for Fahrenheit, K for Kelvin): C
+> - 25.0 degrees Celsius is equal to 77.00 degrees Fahrenheit and 298.15 Kelvin.
 
 Functions:
 1. celsius_to_fahrenheit(celsius): Converts Celsius to Fahrenheit.
